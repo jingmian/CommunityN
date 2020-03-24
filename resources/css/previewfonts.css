@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @font-face {
   font-family: 'Source Sans Pro';
   font-style: normal;
@@ -9,4 +10,17 @@
   font-style: normal;
   font-weight: 400;
   src: local('Source Sans Pro Semibold'), local('SourceSansPro-Semibold'), url('previewfonts/SourceSansPro-Semibold.woff2') format('woff2'), url('previewfonts/SourceSansPro-Semibold.woff') format('woff');
+=======
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Source Sans Pro Regular'), local('SourceSansPro-Regular'), url('previewfonts/SourceSansPro-Regular.woff2') format('woff2'), url('previewfonts/SourceSansPro-Regular.woff') format('woff');
+}
+@font-face {
+  font-family: 'Source Sans Pro Semibold';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Source Sans Pro Semibold'), local('SourceSansPro-Semibold'), url('previewfonts/SourceSansPro-Semibold.woff2') format('woff2'), url('previewfonts/SourceSansPro-Semibold.woff') format('woff');
+>>>>>>> 86b8d19d84a5cf6ceeba3be1ead0bc615ef7344a
 }
